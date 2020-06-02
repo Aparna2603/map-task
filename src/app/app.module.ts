@@ -6,12 +6,10 @@ import { AppComponent } from './app.component';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { AgmCoreModule } from '@agm/core';
-import { CabsListComponent } from './cabs-list/cabs-list.component';
-
 @NgModule({
   declarations: [
     AppComponent,
-    CabsListComponent
+
   ],
   imports: [
     BrowserModule,
