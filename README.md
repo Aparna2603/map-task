@@ -1,7 +1,8 @@
 # front end run
 ng serve --port 5000
 
-# Database automatically created as: main_db
+# Database automatically created as: 
+main_db
 
 #backend Run
  npm start
